@@ -5,8 +5,8 @@ body {
     box-sizing: border-box;
     -moz-boxsizing: border box;
     -webkit-box-sizing: border-box;
-    width: 250px;
-    height: 250px;
+    width: 1920px;
+    height: 1440px;
     border: 20px solid red;
 }
 
