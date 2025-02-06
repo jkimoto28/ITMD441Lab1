@@ -5,7 +5,8 @@ div {
     box-sizing: border-box; 
     margin: 20px; 
     padding: 50px; 
-    border: 15px light blue;  
+    border: 15px light blue;
+    color: orange;
 }
 
 .title {
