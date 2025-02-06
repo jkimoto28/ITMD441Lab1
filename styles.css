@@ -5,7 +5,8 @@ div {
     box-sizing: border-box; 
     margin: 20px; 
     padding: 50px; 
-    border: 15px light blue;
+    border: 15px blue;
+    color: red;
 }
 
 .title {
@@ -13,6 +14,3 @@ div {
     margin-top: 20px;
 }
 
-body {
-    color: orange;
-}
